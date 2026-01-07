@@ -28,21 +28,18 @@ My long-term goal is to grow into an **Analytics Engineer role**, strengthening 
 
 ## 🛠️ Languages & Tools
 
-**Data & Modeling**  
-- SQL (relational modeling, performance-oriented design)  
-- Data modeling & ERD design
-- Big Query's Apache Iceberg
+<div align="center">
+  <img height="150" src="https://www.computerworld.com/wp-content/uploads/2025/05/1656594-0-68082700-1748257438-excel-cheat-sheet-primary-2000px.jpg?quality=50&strip=all" />
+  <img height="150" src="https://www.dremio.com/wp-content/uploads/2021/07/apache-iceberg-1200x628-1.jpg" />
+  <img height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUMqVMizLaZn3GI8GriI3WSHglx4NLHOILGw&s" />
+  <img height="150" src="https://www.techmonitor.ai/wp-content/uploads/sites/29/2016/06/SQL.png" />
+  <img height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCTdlxpN40oRq28d7owUaaoj4y37IjSn5RNA&s" />
+  <img height="150" src="https://thesmartmethod.com/wp-content/uploads/2020/09/power-pivot.png" />
+  <img height="150" src="https://static1.squarespace.com/static/57cfc8a3d482e945c66724f7/57da3788f5e231f8a01b6b76/5f68275528978b1bff2abeab/1600763192655/PowerQ2.PNG?format=1500w"/>
+</div>
 
-**Analytics & BI**  
-- Power BI (DAX, semantic models, executive dashboards)
-- Python (Pandas| Numpy | Seaborn | Matplotlib)
-- Excel(Power Query | Power Pivot)/Google Sheets
-- Business analytics & KPI design  
 
-**Data Sources & Integration**  
-- SQL databases  
-- CSV / TXT / flat files  
-- Multi-source analytical pipelines  
+
 
 ---
 
