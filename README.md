@@ -4,8 +4,10 @@
 I design data models and analytics solutions that turn scaterred data into **clear, trusted business decisions**.  
 My work is all about **business understanding, clean data modeling, and actionable insights**.
 
-Most dashboards fail not because of visuals, but because of weak foundations.  
-I focus on **model-first analytics**, building robust data structures that scale and answer real business questions before a single chart or dashboard is created.
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
 
 This repository showcases projects where **data modeling, analytics, and storytelling** come together to support confident decision-making.
 
