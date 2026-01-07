@@ -21,6 +21,7 @@ I enjoy solving problems and generating new ideas to address challenges where:
 - Structure and intent make the difference  
 
 My long-term goal is to grow into an **Analytics Engineer role**, strengthening the bridge between raw data, analytical models, and business outcomes.
+
 ---
 
 ## 🛠️ Languages & Tools
