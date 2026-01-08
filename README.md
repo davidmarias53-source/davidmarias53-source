@@ -36,6 +36,7 @@ My long-term goal is to grow into an **Analytics Engineer role**, strengthening 
   <img height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCTdlxpN40oRq28d7owUaaoj4y37IjSn5RNA&s" />
   <img height="150" src="https://thesmartmethod.com/wp-content/uploads/2020/09/power-pivot.png" />
   <img height="150" src="https://static1.squarespace.com/static/57cfc8a3d482e945c66724f7/57da3788f5e231f8a01b6b76/5f68275528978b1bff2abeab/1600763192655/PowerQ2.PNG?format=1500w"/>
+  <img height="150" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Salesforce.com_logo.svg/1200px-Salesforce.com_logo.svg.png" />
 </div>
 
 
