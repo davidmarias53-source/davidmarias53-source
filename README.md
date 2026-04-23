@@ -48,15 +48,15 @@ My long-term goal is to grow into an **Analytics Engineer role**, strengthening 
 
 ## 📊 Featured Projects
 
-**[Airlines-EDA-Python Project](https://github.com/davidmarias53-source/Airlines-EDA-Python-Project)**
+**[Airlines-EDA-Python-based Project](https://github.com/davidmarias53-source/Airlines-EDA-Python-Project)**
 
 **[Retail/Ecommerce ERD Project](https://github.com/davidmarias53-source/Retail_Ecommerce-ERD-SQL-Project)**
 
-**[FMCG_Nestlé-Power BI Project](https://github.com/davidmarias53-source/FMCG-PowerBI-Project)**
+**[FMCG_Nestlé-Power BI based Project](https://github.com/davidmarias53-source/FMCG-PowerBI-Project)**
 
-**[Ecommerce-Spreadsheet-Project](https://github.com/davidmarias53-source/Ecommerce-Spreadsheets-Project)**
+**[Ecommerce-Spreadsheet based Project](https://github.com/davidmarias53-source/Ecommerce-Spreadsheets-Project)**
 
-**[HR-Attrition- Python/Data Science Project](https://github.com/davidmarias53-source/HR_Attrition-Python-Project)**
+**[HR-Attrition- Python based Project](https://github.com/davidmarias53-source/HR_Attrition-Python-Project)**
 
 ---
 
