@@ -56,7 +56,7 @@ My long-term goal is to grow into an **Analytics Engineer role**, strengthening 
 
 **[Ecommerce-Spreadsheet-Project](https://github.com/davidmarias53-source/Ecommerce-Spreadsheets-Project)**
 
-**[HR-Attrition-Project](https://github.com/davidmarias53-source/HR_Attrition-Python-Project)**
+**[HR-Attrition- Python/Data Science Project](https://github.com/davidmarias53-source/HR_Attrition-Python-Project)**
 
 ---
 
