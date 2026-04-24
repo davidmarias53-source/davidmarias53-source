@@ -58,6 +58,8 @@ My long-term goal is to grow into an **Analytics Engineer role**, strengthening 
 
 **[HR-Attrition- Data Science Project](https://github.com/davidmarias53-source/HR_Attrition-Python-Project)**
 
+**[Revenue - n8n Workflow Automation Project](https://github.com/davidmarias53-source/Optimized-Revenue-AI-workflow--n8n_Project)**
+
 ---
 
 ## 🧩 How I Work
