@@ -73,7 +73,7 @@ My long-term goal is to grow into an **Analytics Engineer role**, strengthening 
 
 ## 🌱 Open To
 
-- Data Analyst / Analytics Engineer / Data Engineering roles
+- Data Analyst / Data Scientist / Analytics Engineer / Data Engineering roles
 - Collaboration on data & analytics projects  
 - Conversations about data modeling, BI, and analytics best practices  
 
