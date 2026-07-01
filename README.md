@@ -1,5 +1,5 @@
 # 👋 Hi, I’m David  
-**Experienced Data Analyst trnsitioning into a Full Stack Analyst**
+**Experienced Data Analyst transitioning into a Full Stack Analyst**
 
 I design data models and analytics solutions that turn scaterred data into **clear, trusted business decisions**.  
 My work is all about **business understanding, clean data modeling, and actionable insights**.
